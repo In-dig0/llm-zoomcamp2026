@@ -15,3 +15,5 @@ __pycache__/
 *.tmp
 *.swp
 *.swo
+*.db-shm
+*.db-wal
