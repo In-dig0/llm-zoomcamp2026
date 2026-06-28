@@ -17,3 +17,4 @@ __pycache__/
 *.swo
 *.db-shm
 *.db-wal
+all-MiniLM-L6-v2/
